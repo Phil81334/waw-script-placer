@@ -1,0 +1,17 @@
+iwmap 4
+"000_Global" flags  active
+"The Map" flags 
+// entity 0
+{
+"contrastgain" "0.25"
+"ambient" "0.05"
+"_color" "0.827451 0.917647 0.921569"
+"diffusefraction" "0.075"
+"sundiffusecolor" "0.741176 0.85098 0.956863"
+"suncolor" "0.811765 0.843137 0.870588"
+"sunlight" "0.25"
+"sundirection" "-15 18.5 0"
+"sunisprimarylight" "1"
+"skyboxmodel" "skybox_prologue"
+"classname" "worldspawn"
+}

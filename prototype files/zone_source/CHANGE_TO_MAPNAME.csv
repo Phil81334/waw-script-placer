@@ -1,0 +1,55 @@
+ignore,code_post_gfx
+ignore,common
+
+// for zombie specific assets
+include,zombiemode
+
+// for coop players
+include,common_player_us
+
+col_map_sp,maps/CHANGE_TO_MAPNAME.d3dbsp
+
+// Sounds
+sound,weapons,audio_test_tuey,all_sp
+sound,common,CHANGE_TO_MAPNAME,all_sp
+sound,generic,CHANGE_TO_MAPNAME,all_sp
+sound,voiceovers,CHANGE_TO_MAPNAME,all_sp
+sound,requests,CHANGE_TO_MAPNAME,all_sp
+sound,character,CHANGE_TO_MAPNAME,all_sp
+sound,projectiles,CHANGE_TO_MAPNAME,all_sp
+sound,CHANGE_TO_MAPNAME,CHANGE_TO_MAPNAME,all_sp
+sound,physics,CHANGE_TO_MAPNAME,all_sp
+sound,destructibles,CHANGE_TO_MAPNAME,all_sp
+
+// vision
+rawfile,vision/zombie.vision
+
+// FX
+fx,env/smoke/fx_fog_rolling_thick_600x600
+fx,destructibles/fx_barrelexp
+fx,destructibles/fx_barrel_ignite
+fx,destructibles/fx_barrel_fire_top
+fx,bio/player/fx_footstep_dust
+fx,bio/player/fx_footstep_water
+fx,bio/player/fx_footstep_sand
+fx,bio/player/fx_footstep_mud
+
+// MODEL
+xmodel,exploding_barrel_test
+xmodel,exploding_barrel_test_d
+xmodel,global_explosive_barrel_japanese
+xmodel,skybox_zombie
+xmodel,viewmodel_usa_marine_arms
+xmodel,viewmodel_usa_marine_player
+
+// XANIM
+xanim,ch_dazed_d_death
+xanim,ch_dazed_c_death
+xanim,ch_dazed_b_death
+xanim,ch_dazed_a_death
+xanim,ch_dazed_d
+xanim,ch_dazed_c
+xanim,ch_dazed_b
+xanim,ch_dazed_a
+
+// WEAPONS

@@ -1,0 +1,10 @@
+<RCC>
+  <qresource prefix="images">
+    <file>images/mainMenuScreen.png</file>
+    <file>images/missionScreen.png</file>
+    <file>images/loadScreenImage.png</file>
+    <file>images/Capture.PNG</file>
+    <file>images/pauseScreenImage.png</file>
+    <file>images/assman.png</file>
+  </qresource>
+</RCC>

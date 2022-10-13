@@ -1,0 +1,5 @@
+# Map Data Table,,,,,,,
+a0,b1,c2,d3,e4,f5,g6,h7,i8,j9
+maxnum_map,20
+#mapname,#allies characters,#axis characters,#mapname,#mapimage,#index,#description,#level order coop,#gametype,#mis_01
+CHANGE_TO_MAPNAME,desert,desert,CHANGE_TO_MAPNAME,mission_screen_CHANGE_TO_MAPNAME,3,MOD_DESC,21,zom,17

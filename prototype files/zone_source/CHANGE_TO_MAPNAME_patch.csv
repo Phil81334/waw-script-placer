@@ -1,0 +1,12 @@
+// Localized strings
+localize,mod
+localize,weapon
+localize,zombie
+// Loadout
+rawfile,maps\_loadout.gsc
+// Needed for _loadout.gsc
+rawfile,mptype/nazi_zombie_heroes.gsc
+rawfile,character/char_zomb_player_0.gsc
+rawfile,character/char_zomb_player_1.gsc
+rawfile,character/char_zomb_player_2.gsc
+rawfile,character/char_zomb_player_3.gsc

@@ -1,0 +1,5 @@
+{
+	map			"CHANGE_TO_MAPNAME"
+	longname	"CHANGE_TO_MAPNAME"
+	gametype	"zom"
+}
